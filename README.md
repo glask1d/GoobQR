@@ -3,7 +3,8 @@ Simple python QR code generator
 
 ```txt
 
-Just a simple little QR code generator. Use it to troll your friends/strangers! FOR EDUCATIONAL PURPOSES ONLY! DONT BREAK THE LAW, DONT BE DUMB
+Just a simple little QR code generator. Use it to troll your friends/strangers! FOR EDUCATIONAL PURPOSES ONLY!
+DONT BREAK THE LAW, DONT BE DUMB
 
 How to use: 
 
