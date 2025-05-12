@@ -1,3 +1,5 @@
+![Alt text](https://github.com/glask1d/GoobQR/blob/main/images/GoobSecBanner.jpeg)
+
 # GoobQR
 Simple python QR code generator
 
